@@ -1,0 +1,3 @@
+nombre: Carlos Arregin	
+correo: carlos.arregin@gmail.com
+comentario: El curso muy interesante
